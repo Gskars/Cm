@@ -6,6 +6,7 @@ HOSPEDAGEM DO SITE : https://gskars.github.io/Cm/
 - HTML
 - CSS
 - GIT E GIHUB
+- JavaScript
 # Contatos:
 - Tel: (19)983006268
 - Email: gscardazi@gmail.com
