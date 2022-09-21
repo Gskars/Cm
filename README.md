@@ -1,7 +1,7 @@
 # Conversor de Moedas
 ![pt](pt.png) 
 
-HOSPEDAGEM DO SITE : https://melodic-gaufre-b5363e.netlify.app/
+HOSPEDAGEM DO SITE : https://gskars.github.io/Cm/
 # Tecnologias :
 - HTML
 - CSS
