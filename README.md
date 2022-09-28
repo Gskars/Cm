@@ -7,7 +7,7 @@ HOSPEDAGEM DO SITE : https://gskars.github.io/Cm/
 # Tecnologias :
 - HTML
 - CSS
-- GIT E GIHUB
+- GIT E GITHUB
 - JAVASCRIPT
 # Contatos:
 - Email: gscardazi@hotmail.com
